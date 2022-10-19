@@ -1,9 +1,7 @@
 # Hi there, I'm Burak 👋 
 
-## I'm a student at Eskisehir Osmangazi University studying Electrical Electronics Engineering
-
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Graduate and learn more about Backend Development
+- 🥅 2022 Goals: Learn more about Backend Development and React
 - ⚡ Fun fact: I love to read comics and play basketball
 
 ### Connect with me:
