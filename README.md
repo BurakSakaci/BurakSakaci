@@ -1,30 +1,44 @@
-# Hi there, I'm Burak 👋 
+# Hey, I'm Burak 👋
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about Backend Development and React
-- ⚡ Fun fact: I love to read comics and play basketball
+Backend engineer based in Istanbul. I like hard problems, clean solutions, and systems that quietly do their job.
 
-### Connect with me:
-- [Linkedin](https://www.linkedin.com/in/buraksakaci/)
+---
 
+## What I do
 
-### Languages and Tools:
+I build backend systems — microservices, event-driven architectures, payment flows, that kind of thing. Java and Kotlin are my daily drivers. I care a lot about code that's readable, tested, and doesn't wake anyone up at 3am.
 
-<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-</a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+When I'm not doing that, I'm exploring automation and poking around in TypeScript and React just to keep things interesting.
 
+---
 
-<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"  />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
-<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+## What I'm playing with lately
 
+🤖 **Workflow automation** — wiring up systems so the boring stuff just happens on its own.
 
+🧟 **Building a 2D zombie shooter** — TypeScript + React + Canvas API. Because sometimes you just need fun.
 
+---
 
+## Stack I reach for
 
+```
+Java / Kotlin       the bread and butter
+Spring Boot         home turf
+PostgreSQL          where the truth lives
+Kafka               when things need to talk async
+Redis               when things need to be fast
+TypeScript / React  for when I want to see something on screen
+```
 
+---
 
+## Outside the terminal
 
+🏀 Basketball  ·  ⛺ Camping  ·  📚 Sci-fi books & comics  ·  ⚽ Football
+
+---
+
+## Say hi
+
+[LinkedIn](https://linkedin.com/in/buraksakaci/)  ·  buraksakaci132@gmail.com
